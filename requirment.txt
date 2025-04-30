@@ -1,0 +1,7 @@
+requests
+python-dotenv
+facebook-sdk
+customtkinter
+tkcalendar
+transformers
+together
