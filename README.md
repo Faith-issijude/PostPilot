@@ -9,7 +9,7 @@ This project is a simple, elegant, and interactive post scheduling desktop appli
 - 📋 **View Scheduled Posts**: Browse all upcoming posts in a scrollable table.
 - 📚 **Post History**: View all previously posted content with mock engagement (likes, shares, comments).
 - 🖼️ **Media Support**: Attach `.jpg`, `.jpeg`, `.png`, or `.gif` images to your posts.
-
+- 🤖 **AI-Generated Captions**: Automatically generate creative post captions using AI with a single click.
 ---
 
 🛠 Requirements
