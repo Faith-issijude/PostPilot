@@ -134,11 +134,12 @@ python main.py
 ✏️ How to Use
 ---
 1. Click on "Create Post".
-2. Select your platform (Facebook, Twitter, etc.).
-3. Enter your content.
-4. Pick a date and time.
-5. (Optional) Attach media.
-6. Click "Schedule Post" to save.
+2.Select your platform (Facebook, Twitter, etc.).
+3.Enter your content.
+4.(Optional) Click the "AI ✨" button to generate a caption using AI.
+5.Pick a date and time.
+6.(Optional) Attach media.
+7.Click "Schedule Post" to save.
 You can later:
 See all scheduled posts via "Scheduled Posts".
 Review past posts under "Post History".
