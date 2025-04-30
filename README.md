@@ -16,17 +16,7 @@ This project is a simple, elegant, and interactive post scheduling desktop appli
 ---
 pip install -r requirements.txt
 
-🚀 How to Run
----
 
-1. Clone the repository or download the files.
-2. Make sure you have all dependencies installed.
-3. 
-4. Run the app using:
-python main.py
-Thanks! Here's the **final updated version** of the `🚀 How to Run` section, now including the **Graph API setup** and **updating the `page_id` in `api_client.py`**:
-
----
 
 ## 🚀 How to Run
 
@@ -37,8 +27,8 @@ To get started with the Post Scheduler application, follow the steps below:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/post-scheduler-app.git
-cd post-scheduler-app
+git clone https://github.com/your-username/postpilot.git
+cd postpilot
 ```
 
 ---
