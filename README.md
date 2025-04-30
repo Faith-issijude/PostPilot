@@ -27,7 +27,7 @@ To get started with the Post Scheduler application, follow the steps below:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/postpilot.git
+git clone https://github.com/Faith-issijude/PostPilot.git
 cd postpilot
 ```
 
