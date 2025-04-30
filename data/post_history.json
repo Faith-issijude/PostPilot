@@ -1,0 +1,335 @@
+[
+  {
+    "platform": "Twitter",
+    "content": "hi",
+    "timestamp": "2025-04-15 16:22",
+    "engagement": {
+      "success": true,
+      "platform": "twitter",
+      "content": "hi",
+      "likes": 132,
+      "shares": 13,
+      "comments": 7
+    }
+  },
+  {
+    "platform": "Twitter",
+    "content": "hi",
+    "timestamp": "2025-04-15 16:25",
+    "engagement": {
+      "success": true,
+      "platform": "twitter",
+      "content": "hi",
+      "likes": 144,
+      "shares": 11,
+      "comments": 13
+    }
+  },
+  {
+    "platform": "Twitter",
+    "content": "hi",
+    "timestamp": "2025-04-15 16:25",
+    "engagement": {
+      "success": true,
+      "platform": "twitter",
+      "content": "hi",
+      "likes": 148,
+      "shares": 37,
+      "comments": 13
+    }
+  },
+  {
+    "platform": "Facebook",
+    "content": "hello world",
+    "timestamp": "2025-04-15 21:52",
+    "engagement": {
+      "success": true,
+      "platform": "facebook",
+      "content": "hello world",
+      "likes": 131,
+      "shares": 29,
+      "comments": 14
+    }
+  },
+  {
+    "platform": "Twitter",
+    "content": "hi",
+    "timestamp": "2025-04-22 12:11",
+    "engagement": {
+      "success": true,
+      "platform": "twitter",
+      "content": "hi",
+      "likes": 73,
+      "shares": 23,
+      "comments": 5
+    }
+  },
+  {
+    "platform": "Facebook",
+    "content": "hi our first real post to facebook from our app",
+    "timestamp": "2025-04-23 14:10",
+    "engagement": {
+      "success": true,
+      "platform": "facebook",
+      "content": "hi our first real post to facebook from our app",
+      "likes": 56,
+      "shares": 17,
+      "comments": 16
+    }
+  },
+  {
+    "platform": "Facebook",
+    "content": "hi this is another real test from our app scheduler. Go group 12!",
+    "timestamp": "2025-04-23 14:21",
+    "engagement": {
+      "success": true,
+      "platform": "facebook",
+      "content": "hi this is another real test from our app scheduler. Go group 12!",
+      "media": null,
+      "likes": 85,
+      "shares": 45,
+      "comments": 4
+    }
+  },
+  {
+    "platform": "Twitter",
+    "content": "hi",
+    "timestamp": "2025-04-23 14:35",
+    "engagement": {
+      "success": true,
+      "platform": "twitter",
+      "content": "hi",
+      "likes": 55,
+      "shares": 8,
+      "comments": 5
+    }
+  },
+  {
+    "platform": "Facebook",
+    "content": "hi how are you",
+    "timestamp": "2025-04-23 14:36",
+    "engagement": {
+      "success": true,
+      "platform": "facebook",
+      "content": "hi how are you",
+      "media": null,
+      "likes": 157,
+      "shares": 35,
+      "comments": 0
+    }
+  },
+  {
+    "platform": "Facebook",
+    "content": "hi",
+    "timestamp": "2025-04-23 14:49",
+    "engagement": {
+      "success": false,
+      "message": "Exception posting to Facebook: type object 'Post' has no attribute 'media_path'"
+    }
+  },
+  {
+    "platform": "Facebook",
+    "content": "hi",
+    "timestamp": "2025-04-23 14:51",
+    "engagement": {
+      "success": false,
+      "message": "Failed to post on Facebook: {'message': '(#100) url should represent a valid URL', 'type': 'OAuthException', 'code': 100, 'fbtrace_id': 'A4Jd-rOpOqJIgKpL4mzregw'}"
+    }
+  },
+  {
+    "platform": "Facebook",
+    "content": "hi, I'm testing my work now.",
+    "timestamp": "2025-04-24 16:04",
+    "engagement": {
+      "success": false,
+      "message": "Failed to post on Facebook: {'message': '(#324) Requires upload file', 'type': 'OAuthException', 'code': 324, 'fbtrace_id': 'Asl_gaLPhVZWjVxaMDa8_VJ'}"
+    }
+  },
+  {
+    "platform": "Facebook",
+    "content": "testing of our project",
+    "timestamp": "2025-04-24 16:04",
+    "engagement": {
+      "success": true,
+      "platform": "facebook",
+      "content": "testing of our project",
+      "media": "",
+      "likes": 178,
+      "shares": 25,
+      "comments": 5
+    }
+  },
+  {
+    "platform": "Facebook",
+    "content": "hi this is an automatic post to be post",
+    "timestamp": "2025-04-24 16:10",
+    "engagement": {
+      "success": false,
+      "message": "Failed to post on Facebook: {'message': '(#324) Requires upload file', 'type': 'OAuthException', 'code': 324, 'fbtrace_id': 'AJ_3-eg_eRztLArXrTuN8Xz'}"
+    }
+  },
+  {
+    "platform": "Facebook",
+    "content": "hi automatic posting",
+    "timestamp": "2025-04-24 16:37",
+    "engagement": {
+      "success": false,
+      "message": "Failed to post on Facebook: {'message': '(#324) Requires upload file', 'type': 'OAuthException', 'code': 324, 'fbtrace_id': 'A0GpQmTObmlXEglVamKNWtF'}"
+    }
+  },
+  {
+    "platform": "Facebook",
+    "content": "testing again to be sure everything is working",
+    "timestamp": "2025-04-24 16:51",
+    "engagement": {
+      "success": false,
+      "message": "Failed to post on Facebook: {'message': '(#324) Requires upload file', 'type': 'OAuthException', 'code': 324, 'fbtrace_id': 'AHu489pGAeVNi3wBjX6l-PQ'}"
+    }
+  },
+  {
+    "platform": "Facebook",
+    "content": "\"Movie night is calling, and I'm answering \ud83d\udca5! I'm low-key stalking my watchlist and high-key hyped for this new release \ud83c\udfa5\ud83c\udf7f\ud83d\ude02 #MovieMagic #CinemaLover\"",
+    "timestamp": "2025-04-24 19:30",
+    "engagement": {
+      "success": false,
+      "message": "Failed to post on Facebook: {'message': '(#324) Requires upload file', 'type': 'OAuthException', 'code': 324, 'fbtrace_id': 'A4qVKNlIAFG9Rgdsp8E2x5K'}"
+    }
+  },
+  {
+    "platform": "Facebook",
+    "content": "\"I'm not saying I'm a cat whisperer, but I almost got mauled \ud83e\udd23! Met the coolest mom, and her cat was... let's just say 'expressive' \ud83d\ude39\ud83d\udc08\ud83d\udc95\"",
+    "timestamp": "2025-04-24 19:44",
+    "engagement": {
+      "success": false,
+      "message": "Failed to post on Facebook: {'message': '(#324) Requires upload file', 'type': 'OAuthException', 'code': 324, 'fbtrace_id': 'Ad5MB-17uMfkiaAqILg-8dh'}"
+    }
+  },
+  {
+    "platform": "Twitter",
+    "content": "\"I'm the only one who truly gets me \ud83d\ude4c! My cat gives me more loving gazes than my ex, and that's just a fact of life \ud83d\udc31\ud83d\udc95\ud83d\ude39\"",
+    "timestamp": "2025-04-24 19:45",
+    "engagement": {
+      "success": true,
+      "platform": "twitter",
+      "content": "\"I'm the only one who truly gets me \ud83d\ude4c! My cat gives me more loving gazes than my ex, and that's just a fact of life \ud83d\udc31\ud83d\udc95\ud83d\ude39\"",
+      "likes": 36,
+      "shares": 42,
+      "comments": 2
+    }
+  },
+  {
+    "platform": "Facebook",
+    "content": "\"Reverence is my love language \ud83d\udcab\ud83d\ude02! When I'm shaking in my boots thinking about the universe, that's when the real wisdom begins \u2728. The fear of God is the beginning of knowledge, and I'm just here for the wisdom (and the occasional existential crisis) \ud83d\ude4f\ud83d\udca5\ud83d\ude05\"",
+    "timestamp": "2025-04-24 20:30",
+    "engagement": {
+      "success": false,
+      "message": "Failed to post on Facebook: {'message': 'Error validating access token: Session has expired on Thursday, 24-Apr-25 12:00:00 PDT. The current time is Thursday, 24-Apr-25 12:30:26 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AmXoomEILxC-onv6pwVe8uf'}"
+    }
+  },
+  {
+    "platform": "Twitter",
+    "content": "\"Just upgraded my ride and I'm feeling like a total boss! \ud83d\ude0e Now I can finally drive my ego around in style \ud83d\ude97\ud83d\udca8\ud83c\udf89\"",
+    "timestamp": "2025-04-24 20:35",
+    "engagement": {
+      "success": true,
+      "platform": "twitter",
+      "content": "\"Just upgraded my ride and I'm feeling like a total boss! \ud83d\ude0e Now I can finally drive my ego around in style \ud83d\ude97\ud83d\udca8\ud83c\udf89\"",
+      "likes": 72,
+      "shares": 2,
+      "comments": 18
+    }
+  },
+  {
+    "platform": "Facebook",
+    "content": "\"Just upgraded my ride and I'm feeling like a total boss! \ud83d\ude0e Now I can finally drive my ego around in style \ud83d\ude97\ud83d\udca8\ud83d\udd25. Who needs a significant other when you have a new car and a full tank of gas? \ud83d\ude02\ud83d\udca5\"",
+    "timestamp": "2025-04-24 20:37",
+    "engagement": {
+      "success": false,
+      "message": "Failed to post on Facebook: {'message': '(#324) Requires upload file', 'type': 'OAuthException', 'code': 324, 'fbtrace_id': 'A3sFLfLGWwrIA2woGld92pD'}"
+    }
+  },
+  {
+    "platform": "Facebook",
+    "content": "\"Just upgraded my ride and I'm feeling like a total boss! \ud83d\ude0e Now I can finally drive my ego around in style \ud83d\ude97\ud83d\udca8\ud83d\udd25\ud83c\udf89\"",
+    "timestamp": "2025-04-24 20:44",
+    "engagement": {
+      "success": false,
+      "message": "Failed to post on Facebook: {'message': '(#324) Requires upload file', 'type': 'OAuthException', 'code': 324, 'fbtrace_id': 'AmTuNFG2NnjESXxWEaInlVG'}"
+    }
+  },
+  {
+    "platform": "Facebook",
+    "content": "\"Just upgraded my ride and my ego \ud83d\ude97\ud83d\udca5\ud83d\ude0e! I'm not saying I'm a car snob now, but I just spent 10 minutes explaining the difference between turbocharged and supercharged to my cat... who's still just staring at me like 'feed me'\"",
+    "timestamp": "2025-04-24 20:58",
+    "engagement": {
+      "success": false,
+      "message": "Failed to post on Facebook: {'message': '(#324) Requires upload file', 'type': 'OAuthException', 'code': 324, 'fbtrace_id': 'AAKs3hWfZ628lxr60ep8NOf'}"
+    }
+  },
+  {
+    "platform": "Twitter",
+    "content": "\"Can you hear me now? \ud83d\ude02 Just kidding, I'm pretty sure my mic is working fine, but my excuses for not having a life are still being fine-tuned \ud83c\udfa4\ud83d\udc81\u200d\u2640\ufe0f\ud83d\udd25\u2728\"",
+    "timestamp": "2025-04-28 11:47",
+    "engagement": {
+      "success": true,
+      "platform": "twitter",
+      "content": "\"Can you hear me now? \ud83d\ude02 Just kidding, I'm pretty sure my mic is working fine, but my excuses for not having a life are still being fine-tuned \ud83c\udfa4\ud83d\udc81\u200d\u2640\ufe0f\ud83d\udd25\u2728\"",
+      "likes": 79,
+      "shares": 30,
+      "comments": 9
+    }
+  },
+  {
+    "platform": "Twitter",
+    "content": "\"IT'S FINALLY FRIDAY, BABY! \ud83d\ude4c\ud83d\udc83\ud83c\udffb\ud83d\ude06 My weekend plans are basically just eating all the pizza and watching all the rom-coms - who's with me? \ud83c\udf55\u2764\ufe0f\"",
+    "timestamp": "2025-04-28 12:13",
+    "engagement": {
+      "success": true,
+      "platform": "twitter",
+      "content": "\"IT'S FINALLY FRIDAY, BABY! \ud83d\ude4c\ud83d\udc83\ud83c\udffb\ud83d\ude06 My weekend plans are basically just eating all the pizza and watching all the rom-coms - who's with me? \ud83c\udf55\u2764\ufe0f\"",
+      "likes": 69,
+      "shares": 44,
+      "comments": 8
+    }
+  },
+  {
+    "platform": "Facebook",
+    "content": "\"It's finally Friday and I'm serving up a weekend that's OFF. THE. CHAIN. \ud83c\udf79 Now, who's ready to turn their 'to-do' list into a 'did-it' list (or, you know, just binge-watch Netflix \ud83e\udd37\u200d\u2640\ufe0f)? \ud83c\udf89\ud83d\ude02\ud83d\udc83\"",
+    "timestamp": "2025-04-28 12:15",
+    "engagement": {
+      "success": false,
+      "message": "Failed to post on Facebook: {'message': '(#324) Requires upload file', 'type': 'OAuthException', 'code': 324, 'fbtrace_id': 'Amwwg8vrBuhikYMOjkpedlB'}"
+    }
+  },
+  {
+    "platform": "Facebook",
+    "content": "\"It's the most wonderful time of the year... to eat all the cookies \ud83c\udf84\ud83c\udf6a\ud83d\ude02! I'm not saying I'm a holiday cookie connoisseur or anything, but I'm pretty sure I've taste-tested my weight in gingerbread this season \ud83c\udf85\u2728\u2764\ufe0f\"",
+    "timestamp": "2025-04-29 10:28",
+    "engagement": {
+      "success": false,
+      "message": "Failed to post on Facebook: {'message': '(#324) Requires upload file', 'type': 'OAuthException', 'code': 324, 'fbtrace_id': 'AqWX6LfzUwHtVw58Q966cCm'}"
+    }
+  },
+  {
+    "platform": "Twitter",
+    "content": "\"I'm not hungry, I'm just passionately waiting for food to become a part of my life again \ud83d\ude43. Currently negotiating with my stomach to wait 5 more minutes for that pizza \ud83c\udf55\ud83d\udd25\ud83d\ude0b\"",
+    "timestamp": "2025-04-29 10:46",
+    "engagement": {
+      "success": true,
+      "platform": "twitter",
+      "content": "\"I'm not hungry, I'm just passionately waiting for food to become a part of my life again \ud83d\ude43. Currently negotiating with my stomach to wait 5 more minutes for that pizza \ud83c\udf55\ud83d\udd25\ud83d\ude0b\"",
+      "likes": 179,
+      "shares": 38,
+      "comments": 14
+    }
+  },
+  {
+    "platform": "Facebook",
+    "content": "\"It's the most wonderful time of the year... to eat all the cookies \ud83c\udf84\ud83c\udf6a\ud83d\ude02! Wishing you a holiday season as bright as my festive sweater (which, let's be real, is the real star of the show) \u2728\u2764\ufe0f\ud83c\udf85\"",
+    "timestamp": "2025-04-29 10:50",
+    "engagement": {
+      "success": false,
+      "message": "Exception posting to Facebook: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    }
+  }
+]
