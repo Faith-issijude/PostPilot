@@ -3,25 +3,6 @@
 
 This project is a simple, elegant, and interactive post scheduling desktop application built with Python and CustomTkinter. This tool allows users to schedule posts for different platforms, preview scheduled content (with optional images), and view a history of posted content — all in a scrollable, modern interface.
 
-
-## 📁 Project Structure
-
-```bash
-.
-├── core/
-│   └── post.py        # Core logic for creating, validating, and saving posts
-│   └── api_client.py
-│   └── scheduler.py
-│   └── logger.py  
-├── data/
-│   └── scheduled_posts.json  # Stores all scheduled posts as JSON (auto-created)
-│   └── history.json 
-├── media/
-│   └── [uploaded_media]      # Stores media files copied during post creation
-├── main.py           
-└── README.md          # Project documentation
-└── requirement.txt
-
 ## 📦 Features
 
 - ✅ **Post Scheduling**: Choose platform, write content, set a date and time, and optionally attach media.
@@ -45,6 +26,7 @@ python main.py
 
 
 ##✏️ How to Use
+---
 1. Click on "Create Post".
 2. Select your platform (Facebook, Twitter, etc.).
 3. Enter your content.
@@ -57,4 +39,24 @@ Review past posts under "Post History".
 
 
 ##✨ Author
+---
 Developed with ❤️ by Faithfulness Issjude and Ahmad Ibrahim
+
+
+## 📁 Project Structure
+
+```bash
+.
+├── core/
+│   └── post.py        # Core logic for creating, validating, and saving posts
+│   └── api_client.py
+│   └── scheduler.py
+│   └── logger.py  
+├── data/
+│   └── scheduled_posts.json  # Stores all scheduled posts as JSON (auto-created)
+│   └── history.json 
+├── media/
+│   └── [uploaded_media]      # Stores media files copied during post creation
+├── main.py           
+└── README.md          # Project documentation
+└── requirement.txt
